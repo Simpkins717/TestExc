@@ -1,3 +1,6 @@
 good
 bad
 ugly
+pizza
+fries
+steak
